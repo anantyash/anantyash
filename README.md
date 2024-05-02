@@ -1,15 +1,14 @@
-### Hi there, I am Yash👋
-# Software Developer
+### Hi there 👋, I am Yash
+#### Fresher
+I'm very interested in doing Design & Development
+I'm enthusiastic person and able to maintain positive and encourage environment around myself which is very helpful to people around me.
 
-<!--
-**anantyash/anantyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:  HTML / CSS / JS / Figma
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React, Next.js  
+- 📫 How to reach me: Linkedin: www.linkedin.com/in/anantyash 
+- ⚡ Fun fact: Code is an Art and I am an Artist 
 
-- 🔭 I’m currently a fresher
-- 🌱 I’m currently learning next.js
-- 💬 Ask me about ...
-- 📫 Connect me on linkedin: www.linkedin.com/in/anantyash
 
-- ⚡ Fun fact: Code is an Art and I will be an Artist
--->
+
+
