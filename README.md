@@ -9,6 +9,9 @@ Skills:  HTML / CSS / JS / Figma
 - 📫 How to reach me: Linkedin: www.linkedin.com/in/anantyash 
 - ⚡ Fun fact: Code is an Art and I am an Artist 
 
+<!--
+Github Portfolio Generator: https://arturssmirnovs.github.io/github-profile-readme-generator/
+-->
 
 
 
